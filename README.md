@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yejay
-- 👀 I’m interested in Web Development and App Development.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Java, JavaScript(HTML and CSS) and Python
 - 💞️ I’m looking to collaborate on anything that comes up.
 - 📫 How to reach me demirkan.yejay@gmail.com
