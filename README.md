@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yejay Demirkan
 
-🎓 **Master’s Student in Media Informatics** @ BHT Berlin  
+🎓 **Master’s Student in Computer Science for Digital Media** @ BHT Berlin  
 💼 **Software Engineer & AI Specialist** | Working Student @ PwC | Formerly @ gematik, Moving Targets  
 📍 Based in Berlin, Germany  
 📧 Reach me at: [demirkan.yejay@gmail.com](mailto:demirkan.yejay@gmail.com)  
